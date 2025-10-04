@@ -100,4 +100,11 @@ We aim to explain **why order matters** via:
 - Wei et al., *Chain-of-Thought Prompting* (NeurIPS 2022)  
 - Shinn et al., *Reflexion: Language Agents with Verbal Reinforcement Learning* (NeurIPS 2023)  
 - Liang et al., *LLM Debate* (ICLR 2024)  
-- Hu et al., *Meta Agent Search* (NeurIPS 2024)  
+- Hu et al., *Meta Agent Search* (NeurIPS 2024)
+
+
+# 
+
+
+
+
