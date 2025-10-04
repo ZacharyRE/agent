@@ -29,8 +29,9 @@ flowchart LR
     A[Task / Context] --> P1[Persona: Safety-Agent]
     A --> P2[Persona: Creativity-Agent]
     A --> P3[Persona: Efficiency-Agent]
-    P1 -->|Output y₁| W[Ensemble Aggregator]
-    P2 -->|Output y₂| W
-    P3 -->|Output y₃| W
+    P1 --> W[Ensemble Aggregator]
+    P2 --> W
+    P3 --> W
     A -->|Signals: user prefs, risk level, feedback| W
-    W -->|Weights α₁, α₂, α₃ (dynamic)| F[Final Decision ŷ]
+    W --> F[Final Decision (y_hat)]
+
