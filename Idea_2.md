@@ -72,21 +72,3 @@ We plan to evaluate on both **our benchmarks** and **public datasets**:
 
 ---
 
-## 📖 Citation
-If you find this work useful, please cite:  
-*(Coming soon: preprint/ACL/NeurIPS submission)*
-
----
-
-## 👥 Contributors
-- [Your Name] – Concept, Benchmark Integration  
-- [Collaborators / Advisors] – Guidance & Feedback  
-
----
-
-## 📬 Contact
-For questions or collaborations:  
-📧 [your_email@domain.com]  
-🌐 [Your Website or Google Scholar]
-
----
