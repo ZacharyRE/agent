@@ -1,4 +1,5 @@
-# Value-Ensemble Agents: Towards Human-Centered Decision-Making
+# Value-Ensemble Agents: Persona-Aligned Multi-Agent Decision Making
+
 
 ## 🌍 Introduction
 Artificial Intelligence agents often optimize for a single objective, 
