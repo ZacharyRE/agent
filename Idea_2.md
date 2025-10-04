@@ -7,8 +7,9 @@ For example:
 - **Safety vs. Efficiency** (driving slower but safer vs. faster but riskier)  
 - **Creativity vs. Stability** (innovative but risky vs. conventional but reliable)  
 
-We propose a **Value-Ensemble Agent framework**, where each agent is assigned a distinct human value perspective (e.g., **Safety**, **Creativity**, **Efficiency**).  
-By dynamically weighting their contributions, the system can make **balanced, human-centered decisions**.
+We propose a **Persona + Ensemble Multi-Agent framework**, where each agent is assigned a distinct human value perspective (e.g., **Safety**, **Creativity**, **Efficiency**).  
+By dynamically weighting their contributions, the system can make **balanced, human-centered decisions** in complex scenarios.
+
 
 ---
 
